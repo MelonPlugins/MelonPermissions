@@ -1,0 +1,9 @@
+name: MelonPermissions
+version: '0.1.0'
+main: org.vanillacraft.melonpermissions.MelonPermissions
+api-version: '1.21'
+prefix: Melon
+authors: [ Dylan <dylan@coderwiki.org> ]
+description: Manage permissions with ease with MelonPlugins - supports Folia!
+website: https://vanillacraft.org/melon
+folia-supported: true

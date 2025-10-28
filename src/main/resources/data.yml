@@ -1,0 +1,5 @@
+groups:
+  default:
+    setpermissions:
+      - minecraft.command.list
+      - bukkit.command.plugins
